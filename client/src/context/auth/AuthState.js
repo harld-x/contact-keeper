@@ -37,7 +37,7 @@ const AuthState = props => {
         <AuthContext.Provider
             value={{
                 token: state.token,
-                isAuthenticated: state.isAuthenicated,
+                isAuthenticated: state.isAuthenticated,
                 loading: state.loading,
                 user: state.user,
                 error: state.error
@@ -46,5 +46,4 @@ const AuthState = props => {
         </AuthContext.Provider>
     )
 }
-
 export default AuthContext;
