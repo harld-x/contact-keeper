@@ -5,21 +5,25 @@ import About from './components/pages/About'
 
 import Register from './components/auth/Register'
 import Login from './components/auth/Login'
+import Alerts from './components/layout/Alerts'
 
 import './App.css';
 
 import Navbar from './components/layout/Navbar'
 import ContactState from "./context/contact/ContactState";
 import AuthState from "./context/auth/AuthState";
+import AlertState from "./context/alert/AlertState";
 
 const App = () => {
     return (
         <AuthState>
             <ContactState>
+                <AuthState>
                     <Router>
                         <Fragment>
                             <Navbar />
                             <div className='container'>
+                                <Alerts/>
                                 <Switch>
                                     <Route exact path='/about' component={About} />
                                     <Route exact path='/register' component={Register} />
@@ -28,6 +32,7 @@ const App = () => {
                             </div>
                         </Fragment>
                     </Router>
+                </AuthState>
             </ContactState>
         </AuthState>
     );
