@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42b9567b-0efd-48ae-b237-4696906fba82" name="Default Changelist" comment="deploy to heroku">
+      <change afterPath="$PROJECT_DIR$/.idea/contact-keeper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="or" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="or" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1heDYBXyfnxwbK2IxlLHSdRUq8j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.64" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\harld\Desktop\all projects\contact-keeper\models" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42b9567b-0efd-48ae-b237-4696906fba82" name="Default Changelist" comment="" />
+      <created>1600362709659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600362709659</updated>
+      <workItem from="1600362711555" duration="2135000" />
+      <workItem from="1600417174997" duration="4659000" />
+      <workItem from="1600453468926" duration="1031000" />
+      <workItem from="1600503201360" duration="40000" />
+      <workItem from="1600775508534" duration="375000" />
+      <workItem from="1600782997507" duration="160000" />
+      <workItem from="1601987808046" duration="5108000" />
+      <workItem from="1602058583391" duration="9943000" />
+      <workItem from="1602146461246" duration="1197000" />
+      <workItem from="1602186805483" duration="704000" />
+      <workItem from="1602233215122" duration="12271000" />
+      <workItem from="1602323404002" duration="6539000" />
+      <workItem from="1602428314606" duration="1077000" />
+      <workItem from="1602429473997" duration="1728000" />
+      <workItem from="1602431250480" duration="68000" />
+      <workItem from="1602431321337" duration="409000" />
+    </task>
+    <task id="LOCAL-00001" summary="routes">
+      <created>1600364825749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600364825749</updated>
+    </task>
+    <task id="LOCAL-00002" summary="connect mongodb">
+      <created>1600418623575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600418623575</updated>
+    </task>
+    <task id="LOCAL-00003" summary="connect mongodb to our app and fixed">
+      <created>1601990787437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601990787437</updated>
+    </task>
+    <task id="LOCAL-00004" summary="model validation">
+      <created>1601991730278</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601991730278</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hash password register route">
+      <created>1601992315812</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601992315812</updated>
+    </task>
+    <task id="LOCAL-00006" summary="respond with JSON">
+      <created>1602065606823</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602065606823</updated>
+    </task>
+    <task id="LOCAL-00007" summary="auth route">
+      <created>1602066407299</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602066407299</updated>
+    </task>
+    <task id="LOCAL-00008" summary="middleware">
+      <created>1602067278072</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602067278072</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Get contacts">
+      <created>1602067910541</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602067910541</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add contact route">
+      <created>1602070389704</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602070389704</updated>
+    </task>
+    <task id="LOCAL-00011" summary="cleanup navbar router setup">
+      <created>1602074889761</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602074889761</updated>
+    </task>
+    <task id="LOCAL-00012" summary="global state">
+      <created>1602236456684</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602236456684</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ContactItem">
+      <created>1602237936162</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602237936162</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ContactForm">
+      <created>1602240285090</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602240285090</updated>
+    </task>
+    <task id="LOCAL-00015" summary="deletecontact">
+      <created>1602247226358</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602247226358</updated>
+    </task>
+    <task id="LOCAL-00016" summary="set clear current">
+      <created>1602247737914</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602247737914</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updatecontact">
+      <created>1602248606607</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602248606608</updated>
+    </task>
+    <task id="LOCAL-00018" summary="contact filter">
+      <created>1602250385735</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602250385735</updated>
+    </task>
+    <task id="LOCAL-00019" summary="auth context">
+      <created>1602328519884</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1602328519884</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Register login forms">
+      <created>1602330584404</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1602330584404</updated>
+    </task>
+    <task id="LOCAL-00021" summary="alert context">
+      <created>1602337455222</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1602337455222</updated>
+    </task>
+    <task id="LOCAL-00022" summary="user registration">
+      <created>1602338373748</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1602338373748</updated>
+    </task>
+    <task id="LOCAL-00023" summary="user login, add contact, clear-get-delete contacts, refactoring+fixed app">
+      <created>1602429921386</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1602429921386</updated>
+    </task>
+    <task id="LOCAL-00024" summary="deploy to heroku">
+      <created>1602430821231</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1602430821231</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="routes" />
+    <MESSAGE value="connect mongodb" />
+    <MESSAGE value="connect mongodb to our app and fixed" />
+    <MESSAGE value="model validation" />
+    <MESSAGE value="hash password register route" />
+    <MESSAGE value="respond with JSON" />
+    <MESSAGE value="auth route" />
+    <MESSAGE value="middleware" />
+    <MESSAGE value="Get contacts" />
+    <MESSAGE value="add contact route" />
+    <MESSAGE value="cleanup navbar router setup" />
+    <MESSAGE value="global state" />
+    <MESSAGE value="ContactItem" />
+    <MESSAGE value="ContactForm" />
+    <MESSAGE value="deletecontact" />
+    <MESSAGE value="set clear current" />
+    <MESSAGE value="updatecontact" />
+    <MESSAGE value="contact filter" />
+    <MESSAGE value="auth context" />
+    <MESSAGE value="Register login forms" />
+    <MESSAGE value="alert context" />
+    <MESSAGE value="user registration" />
+    <MESSAGE value="user login, add contact, clear-get-delete contacts, refactoring+fixed app" />
+    <MESSAGE value="deploy to heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy to heroku" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="383" y="407" key="#Usage_Scope" timestamp="1601989653900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="383" y="407" key="#Usage_Scope/0.0.1920.1040@0.0.1920.1040" timestamp="1601989653900" />
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1602431318454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602431318454" />
+    <state x="1305" y="421" key="Github.ShareDialog" timestamp="1600363908721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1305" y="421" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600363908721" />
+    <state x="1236" y="228" key="Github.UntrackedFilesDialog" timestamp="1600363925506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1236" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600363925506" />
+    <state x="1216" y="226" key="RollbackChangesDialog" timestamp="1602431280953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1216" y="226" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602431280953" />
+    <state x="861" y="182" key="SettingsEditor" timestamp="1602074099362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="861" y="182" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602074099362" />
+    <state x="1025" y="148" key="Vcs.Push.Dialog.v2" timestamp="1602431417767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1025" y="148" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602431417767" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1602429228599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602429228599" />
+  </component>
+</project>
